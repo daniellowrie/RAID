@@ -10,7 +10,9 @@ This script will obfuscate/remove those pieces from the output of the awscli.
 RAID will also accept and run obfuscated input.
 
 To run, either run from your current directory, add RAID script directory to $PATH, or move RAID script to path in $PATH.
-Don't forget to `chmod +x raid`
+Don't forget to 
+
+```chmod +x raid```
 
 then add 'raid' to the front of your awscli commands.
 
