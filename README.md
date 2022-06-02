@@ -15,7 +15,9 @@ then add 'raid' to the front of your awscli commands.
 
 so this:
 
-  `dlowrie@localhost:~$ aws --profile cloudguy sts get-caller-identity`
+  ```
+  dlowrie@localhost:~$ aws --profile cloudguy sts get-caller-identity
+  ```
 
 becomes:
   ```
