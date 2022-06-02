@@ -23,7 +23,7 @@ becomes:
   ```
   dlowrie@localhost:~$ raid aws --profile cloudguy sts get-caller-identity
   {
-    "UserId": "AIDA6IIMW2DMTDVZTMAYY",
+    "UserId": "AIDA6ILMW2DNTDVZQMAYY",
     "Account": "XXXXXXXXXXXX",
     "Arn": "arn:aws:iam::XXXXXXXXXXXX:user/cloudguy"
   }
