@@ -1,2 +1,2 @@
 # RAID
-[R]emove [A]mazon [ID]entificaiton
+[R]emove [A]mazon [ID]entification
