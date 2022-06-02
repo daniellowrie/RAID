@@ -12,7 +12,7 @@ RAID will also accept and run obfuscated input.
 To run, either run from your current directory, add RAID script directory to $PATH, or move RAID script to path in $PATH.
 
 Don't forget to 
-```chmod +x raid```
+```chmod +x raid``` and to change the ```AWS_Account_ID``` variable to YOUR AWS ACCOUNT ID
 
 then add 'raid' to the front of your awscli commands.
 
